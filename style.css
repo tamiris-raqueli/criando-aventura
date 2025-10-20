@@ -12,8 +12,7 @@ body {
 button {
     background-color: #e5b4f1;
     color: rgb(0, 0, 0);
-    font-family: "Bai Jamjuree", sans-serif;
-}
+    font-family: "Freckle Face", system-ui;
 
 .passo {
     display: none;
